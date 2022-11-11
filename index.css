@@ -27,6 +27,7 @@ body{
   height: 50px;
   border-radius: 10%;
   animation: boxshadow 2s linear infinite;
+  border: none;
 }*/
 
 @keyframes boxshadow {
